@@ -1,0 +1,17 @@
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\controller\MatchController.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\controller\SeriesController.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\controller\UserController.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\CricScoreApplication.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\model\BallSummary.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\model\Match.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\model\PlayerStats.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\model\Series.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\model\User.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\repository\MatchRepository.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\repository\PlayerStatsRepository.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\repository\SeriesRepository.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\repository\UserRepository.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\service\MatchService.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\service\SeriesService.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\cricScore\service\UserService.java
+C:\Users\91860\Desktop\cricScoreApp\cricScore\src\main\java\com\example\WebConfig.java

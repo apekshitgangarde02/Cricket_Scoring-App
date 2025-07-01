@@ -1,0 +1,15 @@
+com\example\cricScore\controller\UserController.class
+com\example\cricScore\repository\PlayerStatsRepository.class
+com\example\cricScore\model\User.class
+com\example\cricScore\repository\MatchRepository.class
+com\example\cricScore\WebConfig.class
+com\example\cricScore\model\BallSummary.class
+com\example\cricScore\repository\UserRepository.class
+com\example\cricScore\CricScoreApplication.class
+com\example\cricScore\controller\MatchController.class
+com\example\cricScore\model\Series.class
+com\example\cricScore\model\PlayerStats.class
+com\example\cricScore\model\Match.class
+com\example\cricScore\service\UserService.class
+com\example\cricScore\controller\SeriesController.class
+com\example\cricScore\repository\SeriesRepository.class
