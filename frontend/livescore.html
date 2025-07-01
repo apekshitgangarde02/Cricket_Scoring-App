@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Live Match Scoring</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Live Match Update</h1>
+
+        <div class="form-section">
+            <label>Striker:</label>
+            <input type="text" id="striker" placeholder="Enter striker name">
+
+            <label>Bowler:</label>
+            <input type="text" id="bowler" placeholder="Enter bowler name">
+
+            <label>Runs:</label>
+            <input type="number" id="runs" placeholder="Runs scored" min="0">
+
+            <label>Result:</label>
+            <select id="result">
+                <option value="Run">Run</option>
+                <option value="Boundary">Boundary (4 runs)</option>
+                <option value="Six">Six (6 runs)</option>
+                <option value="Wicket">Wicket</option>
+                <option value="Wide">Wide</option>
+                <option value="NoBall">No Ball</option>
+            </select>
+
+            <label>
+                <input type="checkbox" id="bouncer"> Bouncer?
+            </label>
+
+            <button onclick="submitBall()">Submit Ball</button>
+        </div>
+
+        <div class="output-section">
+            <h2>Match Info</h2>
+            <p id="matchInfo">No data yet...</p>
+        </div>
+    </div>
+
+    <script src="livescore.js"></script>
+</body>
+</html>
